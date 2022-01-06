@@ -1,0 +1,11 @@
+<spriter_data scml_version="1.0" generator="kanimAL" generator_version="v1">
+  <folder id="0">
+    <file id="0" name="hair_cassidy_0.png" width="96" height="84" pivot_x="0.47059584" pivot_y="0.73337054" />
+    <file id="1" name="hair_cassidy_1.png" width="97" height="80" pivot_x="0.65413463" pivot_y="0.7832748" />
+    <file id="2" name="hair_cassidy_2.png" width="81" height="65" pivot_x="0.5769939" pivot_y="0.56650764" />
+    <file id="3" name="hat_hair_cassidy_0.png" width="96" height="84" pivot_x="0.47059584" pivot_y="0.73337054" />
+    <file id="4" name="hat_hair_cassidy_1.png" width="97" height="80" pivot_x="0.65413463" pivot_y="0.7832748" />
+    <file id="5" name="hat_hair_cassidy_2.png" width="81" height="65" pivot_x="0.5769939" pivot_y="0.56650764" />
+  </folder>
+  <entity id="0" name="printcassidy_accessories" />
+</spriter_data>
